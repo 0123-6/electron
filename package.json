@@ -1,0 +1,25 @@
+{
+  "name": "electron-template-project",
+  "version": "1.0.0",
+  "description": "electron模板项目",
+  "main": "main.js",
+	"type": "commonjs",
+  "scripts": {
+		"start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0123-6/electron.git"
+  },
+  "keywords": [],
+  "author": "hpj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0123-6/electron/issues"
+  },
+  "homepage": "https://github.com/0123-6/electron#readme",
+  "devDependencies": {
+    "electron": "^39.2.7"
+  }
+}
