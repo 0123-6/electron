@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "electron模板项目",
   "main": "main.js",
-	"type": "commonjs",
+  "type": "commonjs",
   "scripts": {
-		"start": "electron .",
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
